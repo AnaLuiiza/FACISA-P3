@@ -1,0 +1,11 @@
+O que é o Problema do diamante???
+
+  Em java não pode ter múltipla herança, ou seja, uma classe ter dois pais.
+Pois com a multiplicidade há uma confusão, de quem realmente o programa irá
+herdar e quais métodos obedecer, essa dualidade é conhecida como o problema do diamante.
+
+Onde surgiu???
+
+  Como o java copiou muitas coisas do C++, mas otimizado, ele percebeu que como
+o problema de múltipla herança gerava perda de tempo e estresse para o
+programador,  eles resolveram exterminar-lo.
