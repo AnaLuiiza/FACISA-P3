@@ -1,1 +1,12 @@
+# Definição de padrões de projeto
 
+  Os padrões de projeto são soluções para problemas conhecidos e corriqueiros nos softwares, 
+com isto estes padrões já possuem soluções prontas para que possamos e otimizar o software em 
+questão.Sabendo que padrões de projetos são formas de resolver problemas iremos destacar um 
+desses padrões que é o Singleton.
+
+# O que é o Singleton?
+
+  O Singleton é um padrão que tem como objetivo que uma classe tenha apenas uma instância, com 
+ele a classe criará um ponto de acesso global. Portanto o mais importante é que com o padrão 
+singleton a classe poderá gerenciar sua própria instância e evitará que outras classes lhe instancie.
